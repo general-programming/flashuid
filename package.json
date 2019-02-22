@@ -1,0 +1,22 @@
+{
+  "name": "flashuid",
+  "version": "0.0.1",
+  "description": "Mass flash CUID cards!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/general-programming/flashuid.git"
+  },
+  "author": "linuxgemini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/general-programming/flashuid/issues"
+  },
+  "homepage": "https://github.com/general-programming/flashuid#readme",
+  "dependencies": {
+    "nfc-pcsc": "^0.7.1"
+  }
+}
